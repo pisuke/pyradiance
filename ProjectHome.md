@@ -1,0 +1,1 @@
+This project aims to develop a user-friendly interface for the Radiance ray-tracer in the Python Programming Language. Through an easy to understand syntax, Radiance is made available for a wide range of public.
